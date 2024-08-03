@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithevilxd" alt="codewithevilxd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itznishant1104" target="blank"><img src="https://img.shields.io/twitter/follow/itznishant1104?logo=twitter&style=for-the-badge" alt="itznishant1104" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itznishant1104" target="blank"><img src="https://img.shields.io/twitter/follow/itznishant1104?logo=twitter&style=for-the-badge" alt="codewithevilxd" /></a> </p>
 
 - 🔭 I’m currently working on **A Vertual Ai Intrigated in my social and private life **
 
