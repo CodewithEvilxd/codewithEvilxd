@@ -11,7 +11,10 @@
 
 ## 🧠 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=Welcome+Devs%2C;Hey+%F0%9F%91%8B+I'm+Apoorv+Mehrotra+;-+An+aspiring+Data+Scientist+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=+I'm+Nishant+Gaurav+;-+An+aspiring+Data+Scientist+fueled+by+curiousity.;-Pre-Final+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" />
+</a>
+
 
 
 
@@ -32,12 +35,12 @@
   <tr>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=programmerbeast2004&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
       </div>
     </td>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerbeast2004&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithevilxd&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
       </div>
     </td>
   </tr>
@@ -47,7 +50,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+          <img src="https://git-hub-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
         </a>
     </td>
   </tr>
@@ -56,7 +59,7 @@
   <!-- Profile Details Graph (unchanged) -->
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=programmerbeast2004&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
     </td>
   </tr>
 </table>
