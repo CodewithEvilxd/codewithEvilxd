@@ -35,7 +35,7 @@
   <tr>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=codewithevixd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
       </div>
     </td>
     <td align="center" width="50%">
@@ -65,6 +65,7 @@
 </table>
 
 ---
+
 
 
 ## 🧰 Tech Stack
