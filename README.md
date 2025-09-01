@@ -1,4 +1,4 @@
-\check karna github stats na dikh raha ye  aarhaaa <div align="center">
+<div align="center">
 <!-- Title Section -->
 <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
 
