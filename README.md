@@ -2,21 +2,13 @@
 <!-- Title Section -->
 <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
 
-
-
-
 ---
-
-
 
 ## 🧠 About Me
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=+I'm+Nishant+Gaurav+;-+An+aspiring+Web+and+App+Dev+Ai+ML+fueled+by+curiousity.;-First+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" />
 </a>
-
-
-
 
 ---
 
@@ -35,41 +27,37 @@
   <tr>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nishantdev_&show_icons=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
       </div>
     </td>
     <td align="center" width="50%">
       <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithevilxd&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantdev_&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
       </div>
     </td>
   </tr>
 
   <!-- GitHub Streak & Trophies -->
-  
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=nishantdev_&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
         </a>
     </td>
   </tr>
 
-
-  <!-- Profile Details Graph (unchanged) -->
+  <!-- Profile Details Graph -->
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishantdev_&theme=dark" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
     </td>
   </tr>
 </table>
 
 ---
 
-
-
 ## 🧰 Tech Stack
-<!-- 🧰 TECH STACK TABLE | Equal Icons Per Row | GitHub-Safe -->
+<!-- 🧰 TECH STACK TABLE -->
 
 <table align="center" width="100%" style="max-width: 950px; text-align: center;">
 
@@ -140,7 +128,6 @@
 
 </table>
 
-
 ---
 
 ## 🔗 Connect with Me
@@ -150,66 +137,25 @@
     <td width="65%" align="center">
       <img src="cart.gif" alt="Coding Dev" width="100%" />
     </td>
-    <!-- Right Side: Green Brick Wall -->
-    <td align="center" style="
-      padding: 20px;
-      background:
-        repeating-linear-gradient(
-          90deg,
-          #4CAF50,
-          #4CAF50 40px,
-          #388E3C 40px,
-          #388E3C 42px
-        ),
-        repeating-linear-gradient(
-          0deg,
-          #4CAF50,
-          #4CAF50 40px,
-          #388E3C 40px,
-          #388E3C 42px
-        );
-      background-size: 42px 42px;
-      background-position: 0 0;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    ">
-      <!-- Social Row 1 -->
+    <!-- Right Side: Social Links -->
+    <td align="center" style="padding: 20px; background: repeating-linear-gradient(90deg,#4CAF50,#4CAF50 40px,#388E3C 40px,#388E3C 42px), repeating-linear-gradient(0deg,#4CAF50,#4CAF50 40px,#388E3C 40px,#388E3C 42px); background-size: 42px 42px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
       <div style="margin-bottom: 10px;">
-        <a href="https://www.instagram.com/codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-        <a href="https://discord.com/users/raj.dev_" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
+        <a href="https://www.instagram.com/codewithevilxd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="https://discord.com/users/raj.dev_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
       </div>
-      <!-- Social Row 2 (Centered) -->
       <div style="margin-bottom: 10px;">
-        <a href="https://www.linkedin.com/in/nishantgauravv/" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
+        <a href="https://www.linkedin.com/in/nishantgauravv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       </div>
-      <!-- Coding Profiles Row 3 -->
       <div style="margin-bottom: 10px;">
-        <a href="https://leetcode.com/nishantdev_/" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        </a>
-        <a href="https://codeforces.com/profile/codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        </a>
+        <a href="https://leetcode.com/nishantdev_/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+        <a href="https://codeforces.com/profile/codewithevilxd" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
       </div>
-      <!-- Medium Row 4 (Centered like a base) -->
       <div>
-        <a href="https://medium.com/@codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
+        <a href="https://medium.com/@codewithevilxd" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
       </div>
     </td>
   </tr>
 </table>
-
-
-
-
 
 ---
 
@@ -228,42 +174,29 @@
 
 ---
 
-
 <!-- Quote of the Day + GIF Section -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
-    <!-- Left: Goku GIF -->
     <td width="50%" align="center" style="padding: 10px;">
       <img src="goku.gif" width="100%" style="max-width: 450px; border-radius: 10px;" alt="Goku Coding" />
     </td>
-    <!-- Right: Quote of the Day -->
     <td width="50%" align="center" style="padding: 10px;">
       <h2 style="color: yellow; font-family: 'Segoe UI', sans-serif;">💡 Quote of the Day</h2>
       <a href="https://github.com/codewithevilxd/github-readme-quotes" target="_blank">
-        <img 
-          src="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-dark&animation=default&layout=churchill&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=yellow" 
-          alt="Daily Inspirational Quote"
-          width="100%"
-          style="max-width: 500px; border-radius: 80px;" 
-        />
+        <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-dark&animation=default&layout=churchill&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=yellow" alt="Daily Inspirational Quote" width="100%" style="max-width: 500px; border-radius: 80px;" />
       </a>
     </td>
   </tr>
 </table>
 
-
-
 ---
-
----
-</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithevilxd&label=FANS&color=blue&style=flat" alt="codewithevilxd Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nishantdev_&label=FANS&color=blue&style=flat" alt="nishantdev_ Profile Views" />
 </p>
-
 
 <!-- Footer Wave -->
 <p align="center">
   <img src="ban.png" width="100%" />
 </p>
+</div>
