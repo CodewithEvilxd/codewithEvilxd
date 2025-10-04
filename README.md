@@ -20,6 +20,18 @@
 
 ---
 
+
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithevilxd&label=Profile%20views&color=0e75b6&style=flat" alt="codewithevilxd" /> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=codewithevilxd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 📊 GitHub Overview
 
 <!-- GitHub Stats Table -->
@@ -210,6 +222,18 @@
 
 
 
+
+---
+
+
+## 🏆 Competitive Programming Stats
+<p>
+<a href ="https://leetcode.com/nishantdev_/">
+<img height = "280em" src = "https://leetcard.jacoblin.cool/nishantdev_?theme=dark&font=PT%20Serif&ext=contest">
+  <a href = "https://codeforces.com/profile/nishant.dev">
+<img height = "280em" src = "https://codeforces-readme-stats.vercel.app/api/card?username=nishant.dev&theme=dark">
+</a>
+</p>
 
 ---
 
