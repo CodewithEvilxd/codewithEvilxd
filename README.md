@@ -226,16 +226,7 @@
 ---
 
 
-## 🏆 Competitive Programming Stats
-<p>
-<a href ="https://leetcode.com/nishantdev_/">
-<img height = "280em" src = "https://leetcard.jacoblin.cool/nishantdev_?theme=dark&font=PT%20Serif&ext=contest">
-  <a href = "https://codeforces.com/profile/nishant.dev">
-<img height = "280em" src = "https://codeforces-readme-stats.vercel.app/api/card?username=nishant.dev&theme=dark">
-</a>
-</p>
 
----
 
 ## 🚀 My Dev Playground
 
