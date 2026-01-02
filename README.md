@@ -42,31 +42,30 @@
       <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
     </td>
   </tr>
-
+  
   <!-- GitHub Stats & Top Languages -->
   <tr>
     <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
-      </div>
+      <a href="https://github.com/codewithevilxd">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="95%" alt="GitHub Stats" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithevilxd&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
-      </div>
+      <a href="https://github.com/codewithevilxd">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=codewithevilxd&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="95%" alt="Top Languages" />
+      </a>
     </td>
   </tr>
-
-  <!-- GitHub Streak & Trophies -->
   
+  <!-- GitHub Streak -->
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/codewithevilxd">
-          <img src="https://github-readme-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" alt="GitHub Streak" />
-        </a>
+        <img src="https://streak-stats.demolab.com?user=codewithevilxd&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="95%" alt="GitHub Streak" />
+      </a>
     </td>
-</tr>
-
+  </tr>
+</table>
 
   <!-- Profile Details Graph (unchanged) -->
   <tr>
