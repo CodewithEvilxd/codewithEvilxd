@@ -2,30 +2,39 @@
 <!-- Title Section -->
 <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
 
+
+
+
 ---
+
+
 
 ## 🧠 About Me
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=+I'm+Nishant+Gaurav+;-+Data+Science+%26+AI+Enthusiast;-First+Year+B.Tech+CSE(AI%2FML+%26+IoT);-Building+ML+models+and+AI+solutions;-Exploring+deep+learning%2C+NLP+%26+computer+vision;-Turning+data+into+actionable+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=500&color=15F01B9E&background=72875100&center=true&vCenter=true&multiline=true&width=900&height=300&lines=+I'm+Nishant+Gaurav+;-+An+aspiring+Web+and+App+Dev+Ai+ML+fueled+by+curiousity.;-First+Year+;-Pursuing+B.Tech+CSE(AI%2FML+%26+IoT);-Exploring+deep+learning%2C+predictive+modeling+%26+big+data.;-Always+questioning%2C+analyzing%2C+and+optimizing.;-On+a+mission+to+turn+complex+data+into+powerful+insights." alt="Typing SVG" />
 </a>
+
+
+
 
 ---
 
+
+
+
+
 ## 🏆 GitHub Trophies
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=codewithevilxd&label=Profile%20views&color=0e75b6&style=flat" alt="codewithevilxd" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithevilxd&label=Profile%20views&color=0e75b6&style=flat" alt="codewithevilxd" /> </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithevilxd&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=codewithevilxd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 📊 GitHub Overview
 
+<!-- GitHub Stats Table -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <!-- Rocket Banner -->
   <tr>
@@ -37,54 +46,44 @@
   <!-- GitHub Stats & Top Languages -->
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=codewithevilxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
+      </div>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithevilxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithevilxd&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
+      </div>
     </td>
   </tr>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak & Trophies -->
+  
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithevilxd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+          <img src="https://git-hub-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+        </a>
     </td>
   </tr>
 
-  <!-- Contribution Graph -->
+
+  <!-- Profile Details Graph (unchanged) -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithevilxd&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
     </td>
   </tr>
 </table>
 
 ---
 
+
+
 ## 🧰 Tech Stack
+<!-- 🧰 TECH STACK TABLE | Equal Icons Per Row | GitHub-Safe -->
 
 <table align="center" width="100%" style="max-width: 950px; text-align: center;">
-
-  <!-- 🧠 Data Science & AI (PRIMARY FOCUS) -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & AI (Primary Focus)</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg" height="50" title="PyTorch" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" title="OpenCV" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" title="Scikit-learn" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="50" title="Kaggle" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" title="Jupyter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" title="Matplotlib" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="50" title="FastAPI" /></td>
-  </tr>
 
   <!-- 🌐 Web Development -->
   <tr>
@@ -93,10 +92,36 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Dark.svg" height="50" title="Next.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Dark.svg" height="50" title="Tailwind CSS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
+  </tr>
+
+  <!-- 📱 Software Development -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Software Development</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Light.svg" height="50" title="Android Studio" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flutter-Light.svg" height="50" title="Flutter" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+  </tr>
+
+  <!-- 🧠 Data Science & Gen AI -->
+  <tr>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PyTorch-Light.svg" height="50" title="PyTorch" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
   </tr>
 
   <!-- ⚙️ Backend & Frameworks -->
@@ -105,76 +130,88 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Dark.svg" height="50" title="Express.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" height="50" title="Django" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flask-Dark.svg" height="50" title="Flask" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" title="FastAPI" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" title="Bash" /></td>
   </tr>
 
-  <!-- 🗄️ Databases & Cloud -->
+  <!-- 🗄️ Databases & Tools -->
   <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Cloud</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Tools</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PostgreSQL-Dark.svg" height="50" title="PostgreSQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Dark.svg" height="50" title="Firebase" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" height="50" title="GitHub" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Dark.svg" height="50" title="Vercel" /></td>
-  </tr>
-
-  <!-- 📱 Other Skills -->
-  <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">📱 Other Skills</th>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" title="C++" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Dark.svg" height="50" title="Java" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Flutter-Dark.svg" height="50" title="Flutter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AndroidStudio-Dark.svg" height="50" title="Android Studio" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Linux-Dark.svg" height="50" title="Linux" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Bash-Dark.svg" height="50" title="Bash" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="50" title="SQLite" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
   </tr>
 
 </table>
 
+
 ---
 
 ## 🔗 Connect with Me
-
 <table>
   <tr>
     <!-- Left Side: GIF -->
     <td width="65%" align="center">
       <img src="cart.gif" alt="Coding Dev" width="100%" />
     </td>
-    <!-- Right Side: Social Links -->
-    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px;">
+    <!-- Right Side: Green Brick Wall -->
+    <td align="center" style="
+      padding: 20px;
+      background:
+        repeating-linear-gradient(
+          90deg,
+          #4CAF50,
+          #4CAF50 40px,
+          #388E3C 40px,
+          #388E3C 42px
+        ),
+        repeating-linear-gradient(
+          0deg,
+          #4CAF50,
+          #4CAF50 40px,
+          #388E3C 40px,
+          #388E3C 42px
+        );
+      background-size: 42px 42px;
+      background-position: 0 0;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    ">
+      <!-- Social Row 1 -->
       <div style="margin-bottom: 10px;">
-        <a href="https://www.instagram.com/codewithevilxd" target="_blank">
+        <a href="https://www.instagram.com/codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
-        <a href="https://discord.com/users/raj.dev_" target="_blank">
+        <a href="https://discord.com/users/raj.dev_" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
         </a>
       </div>
+      <!-- Social Row 2 (Centered) -->
       <div style="margin-bottom: 10px;">
-        <a href="https://www.linkedin.com/in/nishantgauravv/" target="_blank">
+        <a href="https://www.linkedin.com/in/nishantgauravv/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </div>
+      <!-- Coding Profiles Row 3 -->
       <div style="margin-bottom: 10px;">
-        <a href="https://leetcode.com/nishantdev_/" target="_blank">
+        <a href="https://leetcode.com/nishantdev_/" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <a href="https://codeforces.com/profile/codewithevilxd" target="_blank">
+        <a href="https://codeforces.com/profile/codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
         </a>
       </div>
+      <!-- Medium Row 4 (Centered like a base) -->
       <div>
-        <a href="https://medium.com/@codewithevilxd" target="_blank">
+        <a href="https://medium.com/@codewithevilxd" target="_blank" style="margin: 4px; display: inline-block;">
           <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
         </a>
       </div>
@@ -182,7 +219,14 @@
   </tr>
 </table>
 
+
+
+
+
 ---
+
+
+
 
 ## 🚀 My Dev Playground
 
@@ -191,13 +235,14 @@
     <td width="50%" align="center">
       <img src="dev.gif" width="100%" style="max-width: 500px;" alt="Coding Dev" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/nishantdev_?theme=dark&font=Ubuntu&ext=activity" width="100%" style="max-width: 420px;" alt="LeetCode Stats" />
+    <td width="60%" align="center">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=nishantdev_&theme=dark&animated=true" width="100%" style="max-width: 420px;" alt="LeetCode Showcase" />
     </td>
   </tr>
 </table>
 
 ---
+
 
 <!-- Quote of the Day + GIF Section -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
@@ -208,16 +253,32 @@
     </td>
     <!-- Right: Quote of the Day -->
     <td width="50%" align="center" style="padding: 10px;">
-      <h2 style="color: #FFD700;">💡 Quote of the Day</h2>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+      <h2 style="color: yellow; font-family: 'Segoe UI', sans-serif;">💡 Quote of the Day</h2>
+      <a href="https://github.com/codewithevilxd/github-readme-quotes" target="_blank">
+        <img 
+          src="https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-dark&animation=default&layout=churchill&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=yellow" 
+          alt="Daily Inspirational Quote"
+          width="100%"
+          style="max-width: 500px; border-radius: 80px;" 
+        />
+      </a>
     </td>
   </tr>
 </table>
 
+
+
 ---
 
+---
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=codewithevilxd&label=FANS&color=blue&style=flat" alt="codewithevilxd Profile Views" />
 </p>
 
-</div>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="ban.png" width="100%" />
+</p>
