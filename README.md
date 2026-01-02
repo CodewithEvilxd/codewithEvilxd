@@ -61,11 +61,11 @@
   
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+      <a href="https://github.com/codewithevilxd">
+          <img src="https://github-readme-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" alt="GitHub Streak" />
         </a>
     </td>
-  </tr>
+</tr>
 
 
   <!-- Profile Details Graph (unchanged) -->
