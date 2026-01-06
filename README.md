@@ -62,7 +62,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=codewithevilxd&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
         </a>
     </td>
   </tr>
